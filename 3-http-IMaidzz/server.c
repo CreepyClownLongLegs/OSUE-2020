@@ -1,6 +1,6 @@
 /**
  * @file server.c
- * @author Maida Horozovic <e11927096@student.tuwien.ac.at>
+ * @author [Vorname :3] [Nachname :O] <matrikelnummer@student.tuwien.ac.at>
  * @date 15.01.2023
  * 
  * @brief The server program.
