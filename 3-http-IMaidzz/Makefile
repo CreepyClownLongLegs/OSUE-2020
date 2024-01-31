@@ -1,5 +1,5 @@
 # @file Makefile
-# @author Maida Horozovic <e11927096@student.tuwien.ac.at>
+# @author [Your Name] [Your Surname] <matrikelnummer@student.tuwien.ac.at>
 # @date 15.01.2024
 #
 # @brief The Makefile for the server.
