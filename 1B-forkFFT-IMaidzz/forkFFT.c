@@ -1,6 +1,6 @@
 /**
  * @file forkFFT.c
- * @author Maida Horozovic <e11927096@student.tuwien.ac.at>
+ * @author Name Surname <3 <matrikelnummer@student.tuwien.ac.at>
  * @date 13.11.2023
  *
  * @brief The program calculates the FFT value of the given inputs which must be two floating point values per line
