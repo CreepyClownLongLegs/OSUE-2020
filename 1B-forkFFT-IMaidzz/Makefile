@@ -1,5 +1,5 @@
 # @file Makefile
-# @author Maida Horozovic (11927096) <e11927096@student.tuwien.ac.at>
+# @author[Ya know how it is, its your Name here] (your matrikelnummer) <[your matrikelnummer again but now with the e in front :O ]@student.tuwien.ac.at>
 # @date 13.11.2023
 #
 # @brief compiles and linkes all the files
