@@ -1,6 +1,6 @@
 /**
  * @file generator.c
- * @author Maida Horozovic <e11927096@student.tuwien.ac.at>
+ * @author [Dein ? Vorname] [Dein ? Nachname] <matrikelnummer@student.tuwien.ac.at>
  * @date 11.12.2023
  *
  * @brief Generator program
